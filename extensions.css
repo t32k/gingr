@@ -1,0 +1,17 @@
+body {
+  background: #efefef !important;
+}
+.message {
+  margin-top: 12px !important;
+  padding-top: 6px;
+  border-top: 1px #e5e5e5 dotted;
+}
+.message .speaker img {
+  box-shadow: none !important;
+  margin-right: 6px;
+  border-radius: 2px;
+}
+.message .nickname {
+ font-size: 14px;
+ left: 0 !important;
+}
